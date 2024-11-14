@@ -31,7 +31,6 @@ I'm a passionate software developer with a love for web and app development. I e
 
 **Other**:  
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-2C3E50?style=for-the-badge&logo=machine-learning&logoColor=white)  
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-2C3E50?style=for-the-badge&logo=neural-networks&logoColor=white)  
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
