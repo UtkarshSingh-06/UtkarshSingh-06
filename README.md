@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a passionate software developer with a love for web and app development. I enjoy exploring cloud computing and artificial intelligence technologies. I’m constantly striving to stay updated with the latest in the tech world, and I’m always looking for opportunities to collaborate on innovative projects.
+I'm a passionate software developer with a love for web and app development. I enjoy exploring cloud computing, BlockChain technology and artificial intelligence technologies. I’m constantly striving to stay updated with the latest in the tech world, and I’m always looking for opportunities to collaborate on innovative projects.
 
 - 🔭 I’m currently working on web development projects and deploying them on AWS.  
 - 🌱 I’m currently learning the MERN stack and artificial intelligence.  
