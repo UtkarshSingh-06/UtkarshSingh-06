@@ -90,3 +90,7 @@ Developed a decentralized asset management platform enabling secure storage, tra
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshSingh-06&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshSingh-06&layout=compact&theme=dark)
+
+## 📫 Connect with Me
+
+* LinkedIn
