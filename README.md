@@ -35,3 +35,13 @@ Jupyter Notebook
 AWS
 
 ## 🚀 Projects
+
+### Phishing Website Detection System — Deep Learning & NLP
+**Tech Stack:** Python, CNN, LSTM, BERT, URL-BERT, PyTorch, FastAPI
+
+Developed a machine learning system to detect phishing websites using URL-based, lexical, and content-based features.
+
+* Implemented CNN + LSTM architectures to capture sequential URL patterns and malicious behavior.
+* Integrated Transformer-based models (BERT, URL-BERT) for semantic analysis of URLs and webpage content.
+* Designed scalable feature extraction pipelines including token statistics, entropy measures, and domain metadata.
+* Exposed predictions through a FastAPI backend with explainable risk scores.
