@@ -45,3 +45,12 @@ Developed a machine learning system to detect phishing websites using URL-based,
 * Integrated Transformer-based models (BERT, URL-BERT) for semantic analysis of URLs and webpage content.
 * Designed scalable feature extraction pipelines including token statistics, entropy measures, and domain metadata.
 * Exposed predictions through a FastAPI backend with explainable risk scores.
+
+### Liquidity Management Bot — DeFi Automation
+**Tech Stack:** Python, Solana, Raydium CLMM, Web3, Docker, DigitalOcean
+
+Built an automated DeFi bot to manage liquidity positions in the SOL–USDC CLMM pool on Raydium.
+
+* Implemented dynamic rebalancing strategies based on price movement, pool ranges, and impermanent loss thresholds.
+* Enabled environment-based configuration using .env files for strategy tuning and non-technical deployment.
+* Deployed the bot on a cloud server with fault tolerance, logging, and automated execution.
