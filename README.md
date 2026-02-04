@@ -94,3 +94,10 @@ Developed a decentralized asset management platform enabling secure storage, tra
 ## 📫 Connect with Me
 
 * LinkedIn
+
+### 🎨 Hobbies
+
+* Playing sports
+* Building new things and not pushing them to Git 😄
+
+Feel free to reach out to me if you'd like to collaborate on any projects or just want to connect!
