@@ -54,3 +54,12 @@ Built an automated DeFi bot to manage liquidity positions in the SOL–USDC CLMM
 * Implemented dynamic rebalancing strategies based on price movement, pool ranges, and impermanent loss thresholds.
 * Enabled environment-based configuration using .env files for strategy tuning and non-technical deployment.
 * Deployed the bot on a cloud server with fault tolerance, logging, and automated execution.
+
+### Cloud-Based Bookstore Platform
+**Tech Stack:** FastAPI, React, MySQL, AWS (EC2, S3, RDS)
+
+Developed a cloud-hosted bookstore application with inventory management, search functionality, and order workflows.
+
+* Designed relational database schemas for books, users, orders, and inventory management.
+* Implemented RESTful APIs and deployed the platform on AWS EC2 with persistent storage and backups.
+* Added notification mechanisms for inventory updates and order status tracking.
