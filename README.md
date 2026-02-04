@@ -63,3 +63,12 @@ Developed a cloud-hosted bookstore application with inventory management, search
 * Designed relational database schemas for books, users, orders, and inventory management.
 * Implemented RESTful APIs and deployed the platform on AWS EC2 with persistent storage and backups.
 * Added notification mechanisms for inventory updates and order status tracking.
+
+### AI Chatbot for Data Leakage Detection
+**Tech Stack:** Python, FastAPI, MySQL, NLP, AWS
+
+Built an AI-powered chatbot to detect, report, and explain potential data leakage incidents.
+
+* Applied NLP techniques to analyze logs, queries, and user input for sensitive data exposure patterns.
+* Stored conversation history and incident metadata in MySQL for auditing and compliance analysis.
+* Deployed the system on AWS with secure API endpoints.
