@@ -9,3 +9,27 @@ I'm a passionate software developer with a love for web and app development. I e
 * 👯 I'm looking to collaborate on open-source projects in web development, AI, and cloud computing.
 * 💬 Ask me about web development, cloud computing, and Linux OS.
 * 📫 How to reach me: utkarsh.yash77@gmail.com
+
+**Languages**:  
+C  
+C++  
+Python
+
+**Frameworks and Libraries**:  
+TensorFlow  
+PyTorch  
+Tailwind CSS
+
+**Web Development**:  
+HTML  
+CSS  
+JavaScript
+
+**IDEs**:  
+VS Code  
+PyCharm
+
+**Other**:  
+Machine Learning  
+Jupyter Notebook  
+AWS
