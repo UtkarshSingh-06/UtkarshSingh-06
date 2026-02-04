@@ -88,3 +88,5 @@ Developed a decentralized asset management platform enabling secure storage, tra
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=UtkarshSingh-06&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshSingh-06&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshSingh-06&layout=compact&theme=dark)
