@@ -72,3 +72,13 @@ Built an AI-powered chatbot to detect, report, and explain potential data leakag
 * Applied NLP techniques to analyze logs, queries, and user input for sensitive data exposure patterns.
 * Stored conversation history and incident metadata in MySQL for auditing and compliance analysis.
 * Deployed the system on AWS with secure API endpoints.
+
+### DecentraVault — Web3 Asset Management Platform
+**Tech Stack:** Solidity, Ethereum, Hardhat, React, Ethers.js, IPFS
+
+Developed a decentralized asset management platform enabling secure storage, transfer, and time-locked digital assets.
+
+* Designed and deployed Solidity smart contracts with role-based permissions and security best practices.
+* Integrated wallet-based authentication and transactions using Ethers.js and MetaMask.
+* Stored metadata and proofs on IPFS for decentralized persistence.
+* Tested smart contracts using Hardhat with unit and integration coverage.
