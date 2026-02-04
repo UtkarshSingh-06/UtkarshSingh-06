@@ -82,3 +82,5 @@ Developed a decentralized asset management platform enabling secure storage, tra
 * Integrated wallet-based authentication and transactions using Ethers.js and MetaMask.
 * Stored metadata and proofs on IPFS for decentralized persistence.
 * Tested smart contracts using Hardhat with unit and integration coverage.
+
+## 📊 GitHub Contributions
