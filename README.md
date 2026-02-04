@@ -84,3 +84,5 @@ Developed a decentralized asset management platform enabling secure storage, tra
 * Tested smart contracts using Hardhat with unit and integration coverage.
 
 ## 📊 GitHub Contributions
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=UtkarshSingh-06&theme=dark)
