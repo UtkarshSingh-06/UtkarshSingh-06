@@ -2,9 +2,9 @@
 
 ### About Me
 
-I'm a passionate Full Stack Developer with a strong focus on building scalable web applications and cloud-native solutions. I specialize in modern frontend and backend development, cloud computing, and DevOps practices, ensuring efficient deployment, automation, and system reliability.
+I'm a passionate Full Stack Developer focused on building scalable, production-ready web applications and cloud-native systems. I specialize in modern frontend and backend development, along with Cloud Computing and DevOps, ensuring efficient CI/CD pipelines, automation, and high system reliability.
 
-Alongside this, I actively explore Artificial Intelligence and Machine Learning to integrate intelligent systems into real-world applications. I continuously strive to stay ahead of evolving technologies and enjoy collaborating on innovative, high-impact projects that blend development, cloud, and AI.
+I also explore Artificial Intelligence and Machine Learning to integrate intelligent features into real-world applications. I’m continuously learning, building, and optimizing — aiming to bridge development, cloud infrastructure, and AI into impactful solutions.
 
 - 🔭 I’m currently working on web development projects and deploying them on AWS.  
 - 🌱 I’m currently learning the MERN stack and artificial intelligence.  
