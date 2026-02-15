@@ -2,7 +2,9 @@
 
 ### About Me
 
-I'm a passionate software developer with a love for web and app development. I enjoy exploring cloud computing, BlockChain technology and artificial intelligence technologies. I’m constantly striving to stay updated with the latest in the tech world, and I’m always looking for opportunities to collaborate on innovative projects.
+I'm a passionate Full Stack Developer with a strong focus on building scalable web applications and cloud-native solutions. I specialize in modern frontend and backend development, cloud computing, and DevOps practices, ensuring efficient deployment, automation, and system reliability.
+
+Alongside this, I actively explore Artificial Intelligence and Machine Learning to integrate intelligent systems into real-world applications. I continuously strive to stay ahead of evolving technologies and enjoy collaborating on innovative, high-impact projects that blend development, cloud, and AI.
 
 - 🔭 I’m currently working on web development projects and deploying them on AWS.  
 - 🌱 I’m currently learning the MERN stack and artificial intelligence.  
