@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a passionate Full Stack Developer focused on building scalable, production-ready web applications and cloud-native systems. I specialize in modern frontend and backend development, along with Cloud Computing and DevOps, ensuring efficient CI/CD pipelines, automation, and high system reliability.
+I'm a passionate Full Stack Developer focused on building scalable, production-ready web applications and cloud-native systems. I specialize in modern frontend and backend development, along with Cloud Computing and DevOps, ensuring efficient CI/CD pipelines, automation, and high system reliability. 
 
 I also explore Artificial Intelligence and Machine Learning to integrate intelligent features into real-world applications. I’m continuously learning, building, and optimizing — aiming to bridge development, cloud infrastructure, and AI into impactful solutions.
 
