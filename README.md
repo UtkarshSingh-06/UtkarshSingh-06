@@ -40,7 +40,6 @@ I also explore Artificial Intelligence and Machine Learning to integrate intelli
 
 <!-- Here are some of the projects I've worked on: -->
 
-I will upload my projects here soon.
 
 ## 📫 Connect with Me
 
