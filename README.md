@@ -2,6 +2,8 @@
 
 ### About Me
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e600bac2-926e-4173-9f83-7e51415118ef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 I'm a passionate Full Stack Developer focused on building scalable, production-ready web applications and cloud-native systems. I specialize in modern frontend and backend development, along with Cloud Computing and DevOps, ensuring efficient CI/CD pipelines, automation, and high system reliability. 
 
 I also explore Artificial Intelligence and Machine Learning to integrate intelligent features into real-world applications. I’m continuously learning, building, and optimizing — aiming to bridge development, cloud infrastructure, and AI into impactful solutions.
