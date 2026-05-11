@@ -13,11 +13,24 @@
 
 ## About Me
 
+<table>
+<tr>
+<td width="75%">
+
 I'm a Full Stack Developer and Cloud Engineer building scalable, production-grade systems across web, cloud, and AI domains. I architect end-to-end solutions — from responsive React frontends to containerized backend services deployed on AWS — with a strong emphasis on CI/CD automation, infrastructure-as-code, and system reliability.
 
 I have hands-on experience deploying real-world applications with Docker and Kubernetes, automating infrastructure with Terraform and Ansible, and integrating AI/ML capabilities into production pipelines. I hold the **AWS Certified Solutions Architect – Associate** certification and bring a DevOps-first mindset to every project I build.
 
-Currently focused on: MERN stack engineering, cloud-native architectures, and AI-driven automation systems. <a href="https://www.credly.com/badges/e600bac2-926e-4173-9f83-7e51415118ef/public_url"><img src="./assets/aws-badge.png" alt="AWS Certified Solutions Architect – Associate" width="120" height="120" style="vertical-align: middle;"></a>
+Currently focused on: MERN stack engineering, cloud-native architectures, and AI-driven automation systems.
+
+</td>
+<td width="25%" align="center">
+
+<a href="https://www.credly.com/badges/e600bac2-926e-4173-9f83-7e51415118ef/public_url"><img src="./assets/aws-badge.png" alt="AWS Certified Solutions Architect – Associate" width="150" style="margin: 20px;"></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
