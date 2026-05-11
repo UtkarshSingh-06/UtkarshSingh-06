@@ -116,6 +116,7 @@ Currently focused on: MERN stack engineering, cloud-native architectures, and AI
 
 ### 🏠 Real Estate Booking System
 `React` `Node.js` `Express.js` `MongoDB` `AWS` `Docker` `Tailwind CSS`
+<<<<<<< HEAD
 
 - Built a full-stack MERN application with secure JWT/OAuth authentication, dynamic property search, and optimized MongoDB queries supporting **1,000+ concurrent users**.
 - Delivered a responsive, accessible UI with React and Tailwind CSS; deployed via Docker on AWS with automated CI/CD workflows.
@@ -146,6 +147,69 @@ Currently focused on: MERN stack engineering, cloud-native architectures, and AI
 ---
 
 <div align="center">
+=======
+>>>>>>> afa02cc161d2f6767cb21d963ca0ba6e17fcad84
 
+- Built a full-stack MERN application with secure JWT/OAuth authentication, dynamic property search, and optimized MongoDB queries supporting **1,000+ concurrent users**.
+- Delivered a responsive, accessible UI with React and Tailwind CSS; deployed via Docker on AWS with automated CI/CD workflows.
+- Designed RESTful APIs with Express.js, implementing indexing and query optimization for consistent sub-200ms database response times.
 
+<<<<<<< HEAD
+=======
+---
+
+### 🌐 NetScope – Network Monitoring & Analysis Tool
+`Python` `Linux` `Networking`
+
+- Built a Linux-native packet inspection tool capable of monitoring **5,000+ packets/second** with real-time anomaly detection and automated alerting.
+- Reduced mean-time-to-debug network issues by **35%** through structured logging, anomaly flagging, and configurable monitoring pipelines.
+- Designed with observability-first principles — full packet capture, protocol inspection, and structured diagnostic reports.
+
+---
+
+## 💼 Experience
+
+**Open Source Contributor** — GSSoC '25 *(2025)*
+- Contributing to open-source repositories across web development and cloud tooling; focused on bug fixes, feature additions, and documentation improvements under the GirlScript Summer of Code program.
+
+**Head of Development** — CampusAdda *(2024 – Present)*
+- Leading frontend and backend development for a campus-focused platform; managing deployment workflows, developer onboarding, and production release cycles.
+- Architected core platform features with a focus on scalability, performance, and developer experience across the engineering team.
+
+**Student Placement Coordinator** — Directorate of Corporate Relations & Placements *(2024 – Present)*
+- Coordinating placement activities and industry engagement for students; acting as a liaison between the institution and corporate recruiters.
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer |
+|---|---|
+| ✅ **AWS Certified Solutions Architect – Associate** | Amazon Web Services |
+| 📘 Data Structures and Algorithms | NPTEL |
+| 📘 Design and Analysis of Algorithms | NPTEL |
+| 🗄️ Database Programming with SQL | Oracle Academy |
+| 🐧 Red Hat System Administration I (RH124) | Red Hat |
+| 🐧 Red Hat System Administration II (RH134) | Red Hat |
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-singh-0377ab29a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UtkarshSingh08)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Utkarsh-Singh06/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarsh.yash77@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to internships, placements, and open-source collaborations. Feel free to reach out.*
+
+>>>>>>> afa02cc161d2f6767cb21d963ca0ba6e17fcad84
 </div>
