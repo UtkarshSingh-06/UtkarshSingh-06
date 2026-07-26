@@ -103,7 +103,7 @@ Currently focused on: MERN stack engineering, cloud-native architectures, and AI
 
 ## 🚀 Projects
 
-### 🔐 AI-Powered Payment Fraud Detection System   - https://fraudshield-c61m.onrender.com/
+### 🔐 AI-Powered Payment Fraud Detection System   
 `Python` `FastAPI` `React` `TensorFlow` `AWS` `Docker`
 
 - Built a real-time fraud detection engine processing **10,000+ transactions/day** with **92%+ model accuracy** using TensorFlow-based classification pipelines.
